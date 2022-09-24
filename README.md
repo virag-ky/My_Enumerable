@@ -2,7 +2,7 @@
 
 # My Enumerable
 
-> In this project we used a module inside our class. We created a class MyList and a module MyEnumerable. Our module MyEnumerable implements a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
+> In this project I used a module inside our class. I created a class MyList and a module MyEnumerable. My module MyEnumerable implements a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
 ## Built With
 
